@@ -1,0 +1,76 @@
+train
+0
+11
+17
+21	kg	kg
+34
+36	seconds	m	cm
+47	m/s	m/s
+65	pounds	pounds
+94	kg*m*s^-2	N
+95
+102
+128	mins	mins
+131	kgs	kgs
+147
+148	m/s	m/s
+151	am	am	am
+154	mph	minute	minutes
+165	lbs	lbs
+184	pm	am	pm
+196	lbs	kg
+197	hours	pm
+213	am	am	pm
+223	pm	pm	am
+240	pounds	pounds
+242	pounds	kgs
+250
+264	mins	minutes
+266	lbs	kg
+282
+290	hr	mins	hr	mins
+299
+377	lbs	lbs
+379	am	pm	pm
+380	meter	second	meter	seconds
+403	m	m
+413	pounds	kgs
+424
+428	am	am	pm
+431	hours	hours	am
+457	meters	secs	meters	secs
+459	mins	mins
+469	am	am	am
+511	mins	minutes
+dev
+6
+10
+16
+18
+21
+24	kids	kids
+38
+49
+53
+55
+56
+61
+65
+72
+test
+7
+20	m/s	cm/s
+40	Kg	Kg
+51
+54
+69	Kg	Kg
+71	kg	kg	
+80	ounces	kgs
+86	hours	mins
+87
+98
+107
+121	mins	mins
+123	Kg	Kg
+157
+161	mins	mins
